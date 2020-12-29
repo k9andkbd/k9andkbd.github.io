@@ -81,42 +81,34 @@
 		ga('send', 'pageview');
 		</script>
 		<script>
-			function getPost()
-			{
-				var current = "current";
-				var searchQuery = window.location.search;
-				const urlParams = new URLSearchParams(searchQuery);
-				var p = urlParams.get('p');
-				if(p == null)
-				{
-					p = current;
-				}
-				
-				var url = 'md/' + p + '.md';
-				var client = new XMLHttpRequest();					
+			var converter = new showdown.Converter();
+			var target = document.getElementById('post');
+			var html = "";
 			
-				client.onreadystatechange = function() {
-					if((client.readyState == 4 && client.status == 200)) {
-						renderToHtml(client.responseText);
-					}
-					else
-					{
-						renderToHtml("404");
-					}
-				}
-				client.open('GET', url);
-				client.send();
+			var current = "current";
+			var searchQuery = window.location.search;
+			const urlParams = new URLSearchParams(searchQuery);
+			var p = urlParams.get('p');
+			if(p == null)
+			{
+				p = current;
 			}
-			
-			function renderToHtml(markdown)
-			{
-				var converter = new showdown.Converter();
-				var html = converter.makeHtml(markdown);
-				var target = document.getElementById('post');
+		
+			var url = 'md/' + p + '.md';
+			var client = new XMLHttpRequest();					
+	
+			client.onreadystatechange = function() {
+				if((client.readyState == 4 && client.status == 200)) {
+					html = converter.makeHtml(markdown);
+				}
+				else
+				{
+					html = converter.makeHtml("404");
+				}
 				target.innerHTML = html;
 			}
-			
-			getPost();
+			client.open('GET', url);
+			client.send();
 			
 		</script>
 	</body>
