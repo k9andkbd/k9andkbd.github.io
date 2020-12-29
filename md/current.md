@@ -1,5 +1,5 @@
+###### 4 April 2018
 #Raymond M. Smith (1937-2018)
-###### April 4th, 2018
 
 I love you. 
 

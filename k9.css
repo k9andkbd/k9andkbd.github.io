@@ -21,11 +21,11 @@ h4{ font-size: 1.1rem;}
 h5{ font-size: 1.0rem;}
 h6{ 
 	font-size: 0.9rem;
-	color:#ddd;
+	color:#eee;
 }
 h6:before {
 	font: normal normal normal 14px/1 FontAwesome;
-	content:"\f017";
+	content:" \f017";
 }
 
 table{border-collapse:collapse;border-spacing:0;
