@@ -81,9 +81,18 @@
 		ga('send', 'pageview');
 		</script>
 		<script>
-			function getPost(post)
+			function getPost()
 			{
-				var url = 'md/' + post + '.md';
+				var current = "current";
+				var searchQuery = window.location.search;
+				const urlParams = new URLSearchParams(searchQuery);
+				var p = urlParams.get('p');
+				if(p == null)
+				{
+					p = current;
+				}
+				
+				var url = 'md/' + p + '.md';
 				var client = new XMLHttpRequest();					
 			
 				client.onreadystatechange = function() {
@@ -101,29 +110,13 @@
 			
 			function renderToHtml(markdown)
 			{
-				var markdown = client.responseText;
 				var converter = new showdown.Converter();
 				var html = converter.makeHtml(markdown);
 				var target = document.getElementById('post');
 				target.innerHTML = html;
 			}
 			
-			function parseRequest()
-			{
-				var current = "current";
-				var searchQuery = window.location.search;
-				const urlParams = new URLSearchParams(searchQuery);
-				var p = urlParams.get('p');
-				if(p == null)
-				{
-					p = current;
-				}
-				
-				return p;
-			}
-			
-			var r = parseRequest();
-			getPost(r);
+			getPost();
 			
 		</script>
 	</body>
