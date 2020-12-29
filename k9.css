@@ -22,7 +22,7 @@ h5{ font-size: 1.0rem; color:#444;}
 h6{ font-size: 0.9rem;}
 h5:before {
 	font: normal normal normal 14px/1 FontAwesome;
-	content:"\f017 &nbsp;";
+	content:"\f017 ";
 }
 
 table{border-collapse:collapse;border-spacing:0;
