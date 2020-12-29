@@ -92,7 +92,7 @@
 					}
 					else
 					{
-						getPost("404");
+						renderToHtml("404");
 					}
 				}
 				client.open('GET', url);
@@ -122,8 +122,8 @@
 				return p;
 			}
 			
-			var page = parseRequest();
-			getPost(page);
+			var r = parseRequest();
+			getPost(r);
 			
 		</script>
 	</body>
