@@ -1,4 +1,5 @@
 #Raymond M. Smith (1937-2018)
+###### April 4th, 2018
 
 I love you. 
 
@@ -16,6 +17,7 @@ Thank you.
 
 
 ![Ray](http://www.canineandkeyboard.com/images/post/ray.jpg)
+
 
 
 
