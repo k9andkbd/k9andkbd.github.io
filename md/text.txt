@@ -1,0 +1,4 @@
+# Testing editorial workflow
+
+This is a test of publising a document from editorial.
+
