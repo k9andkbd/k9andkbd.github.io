@@ -81,28 +81,50 @@
 		ga('send', 'pageview');
 		</script>
 		<script>
-			var current = "current";
-			var searchQuery = window.location.search;
-			const urlParams = new URLSearchParams(searchQuery);
-			var p = urlParams.get('p');
-			if(p == null)
+			function getPost(post)
 			{
-				p = current;
-			}
-			var url = 'md/' + p + '.md';
-			var client = new XMLHttpRequest();					
+				var url = 'md/' + post + '.md';
+				var client = new XMLHttpRequest();					
 			
-			client.onreadystatechange = function() {
-				if((client.readyState == 4 && client.status == 200)) {
-					var markdown = client.responseText;
-					converter = new showdown.Converter();
-					html = converter.makeHtml(markdown);
-					target = document.getElementById('post');
-					target.innerHTML = html;
+				client.onreadystatechange = function() {
+					if((client.readyState == 4 && client.status == 200)) {
+						renderToHtml(client.responseText);
+					}
+					else
+					{
+						getPost("404");
+					}
 				}
+				client.open('GET', url);
+				client.send();
 			}
-			client.open('GET', url);
-			client.send();
+			
+			function renderToHtml(markdown)
+			{
+				var markdown = client.responseText;
+				var converter = new showdown.Converter();
+				var html = converter.makeHtml(markdown);
+				var target = document.getElementById('post');
+				target.innerHTML = html;
+			}
+			
+			function parseRequest()
+			{
+				var current = "current";
+				var searchQuery = window.location.search;
+				const urlParams = new URLSearchParams(searchQuery);
+				var p = urlParams.get('p');
+				if(p == null)
+				{
+					p = current;
+				}
+				
+				return p;
+			}
+			
+			var page = parseReqest();
+			getPost(ppage);
+			
 		</script>
 	</body>
 </html>
