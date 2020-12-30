@@ -104,11 +104,9 @@
 				}
 				else
 				{
-					var errorPage = `# 404
-					
-					Broken link? [Send me an email about it.](mailto:eric.schweichler+k9andkbd@gmail.com)
-					
-					`
+					var errorPage = '# 404\n' +
+					'Found a broken link? [Email me about it.](mailto:eric.schweichler+k9andkbd@gmail.com?subject="Broken Link")';
+		 
 					html = converter.makeHtml(errorPage);
 				}
 				target.innerHTML = html;
