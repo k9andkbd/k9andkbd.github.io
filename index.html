@@ -103,7 +103,13 @@
 				}
 				else
 				{
-					html = converter.makeHtml("404");
+					var errorPage = `# 404
+					
+					Broken link? [Send me an email about it.](mailto:eric.schweichler+k9andkbd@gmail.com)
+					
+					`
+					
+					html = converter.makeHtml("# 404");
 				}
 				target.innerHTML = html;
 			}
