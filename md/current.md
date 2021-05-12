@@ -3,7 +3,7 @@
 
 This last season of mushing was fantastic.  I was able to hit the trails 2 or three times a week from late September until early March.  I mostly used my iPhone 11 Pro to record videos from the trail because the quality is so much better than the old Go Pro Hero 2 that I have.  
 
-![Mystery up close](image/post/2021/mystery_close.jpg)
+![Mystery up close](images/post/2021/mystery_close.jpg)
 
 I had been thinking about replacing my Go Pro Hero 2  for a while. There’s no point in using it if I’ll always be disappointed by the video quality, and it’s not a great idea to be mushing with only one had on the sled and an expensive Smart Phone flailing through the air.
 
