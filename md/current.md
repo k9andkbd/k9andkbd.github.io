@@ -5,9 +5,9 @@ This last season of mushing was fantastic.  I was able to hit the trails 2 or th
 
 ![Mystery up close](/images/post/2021/mystery_closeup.jpg)
 
-I had been thinking about replacing my Go Pro Hero 2  for a while. There’s no point in using it if I’ll always be disappointed by the video quality, and it’s not a great idea to be mushing with only one had on the sled and an expensive Smart Phone flailing through the air.
+I had been thinking about replacing my Go Pro Hero 2  for a while. There’s no point in using it if I’ll always be disappointed by the video quality, and it’s not a great idea to be mushing with only one hand on the sled and an expensive Smart Phone flailing through the air.
 
-I didn’t really know what was available on the market.  [The Best Action Camera article from Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-action-camera/) was pretty helpful.  I don’t really need all the bells and whistles of the Go Pro Hero 9, so I figured that the 7 would probably do.
+I didn’t really know what was available on the market so [The Best Action Camera article from Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-action-camera/) was pretty helpful.  I figured that don’t really need all the bells and whistles of the Go Pro Hero 9, so the Hero 7 would probably do.
 
 Then I while surfing Youtube I re-discovered the world of [Parkour videos](https://youtu.be/owg3jgSARag).  Not only is Parkour still a thing, I saw from some videos that 360° Cameras were available. The resulting footage, once edited, looked incredible.   Having a drone would be fun for capturing footage while on the sled but I mostly train alone so that really kills that idea.  I could definitely manage a stick or sled mounted camera while on the trail.  It seems like the next best thing.
 
@@ -17,13 +17,13 @@ I’ve spent a lot of time over the last week comparing the pros and cons of the
 
 I’ll update this post when I order something.
 
-##Product Links
+Product Links
 - [Insta360 One R product page](https://www.insta360.com/product/insta360-oner_twin-edition)
 - [Insta360 One X2 product page](https://gopro.com/en/us/shop/cameras/hero9-black/CHDHX-901-master.html)
 - [Go Pro Max product page](https://gopro.com/en/us/shop/cameras/max/CHDHZ-202-master.html)
 - [Go Pro Hero 9 Black product page](https://gopro.com/en/us/shop/cameras/hero9-black/CHDHX-901-master.html)
 
-##Reviews and Information
+Reviews and Information
 - [The Verge GoPro Max review (Youtube)](https://www.youtube.com/watch?v=zbUcgMT8VKQ)
 - [The Verge Insta360 One R review (Youtube)](https://youtu.be/inxi0ktAe6o)
 - [Should you get a 360 Camera or an Action Camera (Youyube)](https://youtu.be/FTKsWqemJog)
