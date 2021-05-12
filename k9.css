@@ -370,7 +370,6 @@ abbr {
 .post img {
     display: block;
     margin: 0 auto;
-	max-width: 680px;
 }
 .archiveMonthEntry {
     padding-bottom: 1em;
