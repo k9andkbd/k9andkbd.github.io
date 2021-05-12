@@ -16,7 +16,7 @@ Twenty years was not nearly enough, but we made the best of the time we had.
 Thank you.
 
 
-![Ray](http://www.canineandkeyboard.com/images/post/ray.jpg)
+![Ray](images/post/ray.jpg)
 
 
 
