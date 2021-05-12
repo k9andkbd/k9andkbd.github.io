@@ -3,11 +3,11 @@
 
 This last season of mushing was fantastic.  I was able to hit the trails 2 or three times a week from late September until early March.  I mostly used my iPhone 11 Pro to record videos from the trail because the quality is so much better than the old Go Pro Hero 2 that I have.  
 
-![Mystery up close](image/post/2021/mystery_close.jpg)
+![Mystery up close](/images/post/2021/mystery_closeup.jpg)
 
-I had been thinking about replacing my Go Pro Hero 2  for a while. There’s no point in using it if I’ll always be disappointed by the video quality, and it’s not a great idea to be mushing with only one had on the sled and an expensive Smart Phone flailing through the air.
+I had been thinking about replacing my Go Pro Hero 2  for a while. There’s no point in using it if I’ll always be disappointed by the video quality, and it’s not a great idea to be mushing with only one hand on the sled and an expensive Smart Phone flailing through the air.
 
-I didn’t really know what was available on the market.  [The Best Action Camera article from Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-action-camera/) was pretty helpful.  I don’t really need all the bells and whistles of the Go Pro Hero 9, so I figured that the 7 would probably do.
+I didn’t really know what was available on the market so [The Best Action Camera article from Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-action-camera/) was pretty helpful.  I figured that don’t really need all the bells and whistles of the Go Pro Hero 9, so the Hero 7 would probably do.
 
 Then I while surfing Youtube I re-discovered the world of [Parkour videos](https://youtu.be/owg3jgSARag).  Not only is Parkour still a thing, I saw from some videos that 360° Cameras were available. The resulting footage, once edited, looked incredible.   Having a drone would be fun for capturing footage while on the sled but I mostly train alone so that really kills that idea.  I could definitely manage a stick or sled mounted camera while on the trail.  It seems like the next best thing.
 
