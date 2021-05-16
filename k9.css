@@ -387,7 +387,7 @@ abbr {
 
 .post:after {
 	font: normal normal normal 1.0rem FontAwesome;
-	content:"\f11c \f6d3";
+	content:"\f11c";
 	margin: 0 0.5em 0 0;
 }
 
