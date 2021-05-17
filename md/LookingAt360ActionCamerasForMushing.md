@@ -17,6 +17,10 @@ I’ve spent a lot of time over the last week comparing the pros and cons of the
 
 I’ll update this post when I order something.
 
+**Update:** I've ordered the camera.
+
+![Insta360 One R Twin Edition](/images/post/2021/Insta360_one_r.jpg)
+
 **Product Links**
 - [Insta360 One R product page](https://www.insta360.com/product/insta360-oner_twin-edition)
 - [Insta360 One X2 product page](https://gopro.com/en/us/shop/cameras/hero9-black/CHDHX-901-master.html)
