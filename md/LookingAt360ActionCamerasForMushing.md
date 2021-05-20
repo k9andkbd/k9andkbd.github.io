@@ -9,7 +9,7 @@ I had been thinking about replacing my Go Pro Hero 2  for a while. There’s no 
 
 I didn’t really know what was available on the market so [The Best Action Camera article from Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-action-camera/) was pretty helpful.  I figured that don’t really need all the bells and whistles of the Go Pro Hero 9, so the Hero 7 would probably do.
 
-Then I while surfing Youtube I re-discovered the world of [Parkour videos](https://youtu.be/owg3jgSARag).  Not only is Parkour still a thing, I saw from some videos that 360° Cameras were available. The resulting footage, once edited, looked incredible.   Having a drone would be fun for capturing footage while on the sled but I mostly train alone so that really kills that idea.  I could definitely manage a stick or sled mounted camera while on the trail.  It seems like the next best thing.
+Then while surfing Youtube I re-discovered the world of [Parkour videos](https://youtu.be/owg3jgSARag).  Not only is Parkour still a thing, I saw from some videos that 360° Cameras are available now. The resulting footage, once edited, looked incredible.   Having a drone would be fun for capturing footage while on the sled but I mostly train alone so that really kills that idea.  I could definitely manage a stick or sled mounted camera while on the trail.  It seems like the next best thing.
 
 I’ll always have a better camera for regular video shooting because of my tendency to upgrade the iPhone every two years.  The novelty of having a camera that can do something cool that I can’t do with the iPhone is pretty appealing.  Being able to pan around in the raw 360 video using keyframes to build the camera movement seems like magic. [Here’s an example of editing with the Insta360 App](https://youtu.be/OlpFZbpRFUU).  The ability to do all the editing on an iPhone or iPad is something that also really appeals to me.  I did all my video editing this season on the iPhone and iPad and I don’t want to be dependant on a computer for that.
 
@@ -17,7 +17,7 @@ I’ve spent a lot of time over the last week comparing the pros and cons of the
 
 I’ll update this post when I order something.
 
-**Update:** I've ordered the Insta360 One R.  Hopefully I'll have it in time for a little kayaking adventure next weekend. &#129310;
+**Update:** I've ordered the Insta360 One R.  Hopefully I'll have it in time for a little kayaking adventure next weekend. 
 
 ![Insta360 One R Twin Edition](/images/post/2021/Insta360_one_r.jpg)
 
