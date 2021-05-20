@@ -5,7 +5,7 @@ This last season of mushing was fantastic.  I was able to hit the trails 2 or th
 
 ![Mystery up close](/images/post/2021/mystery_closeup.jpg)
 
-I had been thinking about replacing my Go Pro Hero 2  for a while. There’s no point in using it if I’ll always be disappointed by the video quality, and it’s not a great idea to be mushing with only one hand on the sled and an expensive Smart Phone flailing through the air.
+I had been thinking about replacing my ancient Go Pro for a while. There’s no point in using it if I’ll always be disappointed by the video quality, and it’s not a great idea to be mushing with only one hand on the sled and an expensive Smart Phone flailing through the air.
 
 I didn’t really know what was available on the market so [The Best Action Camera article from Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-action-camera/) was pretty helpful.  I figured that don’t really need all the bells and whistles of the Go Pro Hero 9, so the Hero 7 would probably do.
 
