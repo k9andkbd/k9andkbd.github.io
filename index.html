@@ -73,6 +73,7 @@
 				</div>
 			</div>
 		</div>
+		<script src="postsMetadata.js"></script>
 		<script>
 			var converter = new showdown.Converter();
 			var target = document.getElementById('post');
@@ -82,19 +83,23 @@
 			var current = "LookingAt360ActionCamerasForMushing";
 			var searchQuery = window.location.search;
 			const urlParams = new URLSearchParams(searchQuery);
-			var p = urlParams.get('p');
-			if(p == null)
+			var post = urlParams.get('p');
+			
+			var postKeys = [];
+			for (var p in postsMetadata) postKeys.push(p);
+			
+			if(!postKeys.includes(post))
 			{
-				p = current;
+				post = postKeys[0];
 			}
 			
-			var archives = document.getElementById('archivesLink');		
-			if (p == "archives")
+			if (post == "archives")
 			{
+				var archives = document.getElementById('archivesLink');
 				archives.remove();
 			}	
 			
-			var url = 'md/' + p + '.md';
+			var url = 'md/' + post + '.md';
 			var client = new XMLHttpRequest();	
 
 			client.onreadystatechange = function() 
