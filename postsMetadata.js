@@ -7,7 +7,7 @@ var postsMetadata = {
 		"date": "4 April 2018",
 		"title": "Raymond M. Smith (1937-2018)"
 	},
-	"Archives": {
+	"archives": {
 		"date": "",
 		"title": "Archives"
 	}
