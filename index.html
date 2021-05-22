@@ -81,6 +81,8 @@
 			
 			var post = postKeys[0];
 			
+			alert(post + " initial assignment;");
+			
 			// Try to load the page paramter from the url.
 			var searchQuery = window.location.search;
 			if (searchQuery)
@@ -94,6 +96,8 @@
 					post = "404";
 				}
 			}
+			
+			alert(post + " after params checks;");
 			
 			// if we are showing the archives - remove the link in the footer for the archives
 			if (post == "archives")
