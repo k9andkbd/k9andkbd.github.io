@@ -1,3 +1,4 @@
+var latestPost = "LookingAt360ActionCamerasForMushing";
 var postsMetadata = {
 	"LookingAt360ActionCamerasForMushing": {
 		"date": "12 May 2021",
