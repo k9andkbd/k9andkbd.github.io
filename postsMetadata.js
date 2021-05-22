@@ -14,5 +14,9 @@ var postsMetadata = {
 	"archives": {
 		"date": "",
 		"title": "Archives"
+	},
+	"404": {
+		"date": "",
+		"title": "404"
 	}
 }
