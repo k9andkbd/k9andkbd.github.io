@@ -76,6 +76,8 @@
 		<script src="postsMetadata.js"></script>
 		<script>
 			var post;
+			var postKeys = [];
+			for (var p in postsMetadata) postKeys.push(p);
 			
 			// Try to load the page paramter from the url.
 			var searchQuery = window.location.search;
@@ -91,9 +93,6 @@
 			}
 			
 			// check to make sure post is in the list of posts.
-			var postKeys = [];
-			for (var p in postsMetadata) postKeys.push(p);
-			
 			if(!postKeys.includes(post))
 			{
 				post = "404";
