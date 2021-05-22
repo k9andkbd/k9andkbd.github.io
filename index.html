@@ -75,37 +75,43 @@
 		</div>
 		<script src="postsMetadata.js"></script>
 		<script>
-			var converter = new showdown.Converter();
-			var target = document.getElementById('post');
-			var html = "";
-			var markdown = '# 404 - (╯°□°)╯︵ ┻━┻ \n' +
-					'Found a broken link? [Email me about it.](mailto:eric.schweichler+k9andkbd@gmail.com?subject="Broken Link")';
-			var searchQuery = window.location.search;
-			const urlParams = new URLSearchParams(searchQuery);
 			var post;
 			
-			var postKeys = [];
-			for (var p in postsMetadata) postKeys.push(p);
-
-			if (!searchQuery)
+			// Try to load the page paramter from the url.
+			var searchQuery = window.location.search;
+			if (searchQuery)
 			{
-				post = postKeys[0];
+				const urlParams = new URLSearchParams(searchQuery);
+				post = urlParams.get('p');
+				
 			}
 			else
 			{
-				post = urlParams.get('p');
+				post = postKeys[0];
 			}
+			
+			// check to make sure post is in the list of posts.
+			var postKeys = [];
+			for (var p in postsMetadata) postKeys.push(p);
 			
 			if(!postKeys.includes(post))
 			{
 				post = "404";
 			}
 			
+			// if we are showing the archives - remove the link in the footer for the archives
 			if (post == "archives")
 			{
 				var archives = document.getElementById('archivesLink');
 				archives.remove();
 			}	
+			
+			// load the post 
+			var converter = new showdown.Converter();
+			var target = document.getElementById('post');
+			var html = "";
+			var markdown = '# 404 - (╯°□°)╯︵ ┻━┻ \n' +
+					'Found a broken link? [Email me about it.](mailto:eric.schweichler+k9andkbd@gmail.com?subject="Broken Link")';
 			
 			var url = 'md/' + post + '.md';
 			var client = new XMLHttpRequest();	
