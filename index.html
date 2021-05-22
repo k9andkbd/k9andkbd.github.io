@@ -80,18 +80,17 @@
 			var html = "";
 			var markdown = '# 404 - (╯°□°)╯︵ ┻━┻ \n' +
 					'Found a broken link? [Email me about it.](mailto:eric.schweichler+k9andkbd@gmail.com?subject="Broken Link")';
-			var current = "LookingAt360ActionCamerasForMushing";
 			var searchQuery = window.location.search;
 			const urlParams = new URLSearchParams(searchQuery);
 			var post = urlParams.get('p');
-			
-			/*var postKeys = [];
+		
+			var postKeys = [];
 			for (var p in postsMetadata) postKeys.push(p);
 			
 			if(!postKeys.includes(post))
 			{
 				post = postKeys[0];
-			}*/
+			}
 			
 			if (post == "archives")
 			{
