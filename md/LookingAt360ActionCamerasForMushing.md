@@ -1,5 +1,5 @@
 ##### 12 May 2021
-#Looking at 360° Action Cameras for Mushing	
+#[Looking at 360° Action Cameras for Mushing](?p=LookingAt360ActionCamerasForMushing)
 
 This last season of mushing was fantastic.  I was able to hit the trails 2 or three times a week from late September until early March.  I mostly used my iPhone 11 Pro to record videos from the trail because the quality is so much better than the old Go Pro Hero 2 that I have.  
 

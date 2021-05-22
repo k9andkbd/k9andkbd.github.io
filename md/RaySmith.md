@@ -1,5 +1,5 @@
 ##### 4 April 2018
-#Raymond M. Smith (1937-2018)
+#[Raymond M. Smith (1937-2018)](?p=RaySmith)
 
 I love you. 
 
