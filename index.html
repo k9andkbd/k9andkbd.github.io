@@ -75,9 +75,11 @@
 		</div>
 		<script src="postsMetadata.js"></script>
 		<script>
-			var post;
+			
 			var postKeys = [];
 			for (var p in postsMetadata) postKeys.push(p);
+			
+			var post = postKeys[0];
 			
 			// Try to load the page paramter from the url.
 			var searchQuery = window.location.search;
@@ -91,10 +93,6 @@
 				{
 					post = "404";
 				}
-			}
-			else
-			{
-				post = postKeys[0];
 			}
 			
 			// if we are showing the archives - remove the link in the footer for the archives
