@@ -35,7 +35,7 @@
 	<body>
 		<div id="page">
 			<div id="sidebar">
-				Canine & Keyboard<br>
+				<a href="/">Canine & Keyboard</a><br>
 				<span id="sidebarFoot">by Eric J. Schweichler</span> 
 				<script>
 				logo();
@@ -88,32 +88,30 @@
 			var postKeys = [];
 			for (var p in postsMetadata) postKeys.push(p);
 			
-			if(!postKeys.includes(post))
+			if(postKeys.includes(post))
 			{
-				post = postKeys[0];
-			}
-			
-			if (post == "archives")
-			{
-				var archives = document.getElementById('archivesLink');
-				archives.remove();
-			}	
-			
-			var url = 'md/' + post + '.md';
-			var client = new XMLHttpRequest();	
-
-			client.onreadystatechange = function() 
-			{
-				if((client.readyState == 4 && client.status == 200)) 
+				if (post == "archives")
 				{
-					markdown = client.responseText;
-				}
+					var archives = document.getElementById('archivesLink');
+					archives.remove();
+				}	
+			
+				var url = 'md/' + post + '.md';
+				var client = new XMLHttpRequest();	
+
+				client.onreadystatechange = function() 
+				{
+					if((client.readyState == 4 && client.status == 200)) 
+					{
+						markdown = client.responseText;
+					}
 				
-				html = converter.makeHtml(markdown);
-				target.innerHTML = html;
+					html = converter.makeHtml(markdown);
+					target.innerHTML = html;
+				}
+				client.open('GET', url);
+				client.send();
 			}
-			client.open('GET', url);
-			client.send();
 		</script>
 	</body>
 </html>
