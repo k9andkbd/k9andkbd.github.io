@@ -7,7 +7,7 @@ html,body{
   max-width: 1024px;
   margin: 0 auto; padding: 1rem;
   line-height: 1.5rem;
-  text-color: #bbb;
+  color: #bbb;
 }
 h1,h2,h3,h4,h5,h6{font-family: -apple-system, '.SFNSDisplay-Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 text-rendering:optimizelegibility;margin-bottom:1em;font-weight:bold; line-height: 1.8rem;
