@@ -25,7 +25,7 @@
 		<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 		<meta name="theme-color" content="#ffffff">
 		<link href="reset.css" rel="stylesheet" type="text/css">
-		<link href="k9.css" rel="stylesheet" type="text/css">
+		<link href="k9-dark.css" rel="stylesheet" type="text/css">
 		<link rel="stylesheet" href="styles/tomorrow-night.css">
 		<link rel="stylesheet" href="styles/font-awesome.min.css">
 		<script src="logo.js"></script>
@@ -93,15 +93,15 @@
 				{
 					post = "404";
 				}
+				
+				// if we are showing the archives - remove the link in the footer for the archives
+				if (post == "archives")
+				{
+					var archives = document.getElementById('archivesLink');
+					archives.remove();
+				}	
 			}
 						
-			// if we are showing the archives - remove the link in the footer for the archives
-			if (post == "archives")
-			{
-				var archives = document.getElementById('archivesLink');
-				archives.remove();
-			}	
-			
 			// load the post 
 			var converter = new showdown.Converter();
 			var target = document.getElementById('post');
@@ -125,5 +125,6 @@
 			client.open('GET', url);
 			client.send();
 		</script>
+		<noscript>Sorry.  This website requires Javascript.</noscript>
 	</body>
 </html>
