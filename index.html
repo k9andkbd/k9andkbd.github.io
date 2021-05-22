@@ -84,37 +84,36 @@
 			var searchQuery = window.location.search;
 			const urlParams = new URLSearchParams(searchQuery);
 			var post = urlParams.get('p');
-			if (post == undefined)
-			{
-				post = current;
-			}
-			var postKeys = [];
+			
+			/*var postKeys = [];
 			for (var p in postsMetadata) postKeys.push(p);
 			
-			if(postKeys.includes(post))
+			if(!postKeys.includes(post))
 			{
-				if (post == "archives")
-				{
-					var archives = document.getElementById('archivesLink');
-					archives.remove();
-				}	
+				post = postKeys[0];
+			}*/
 			
-				var url = 'md/' + post + '.md';
-				var client = new XMLHttpRequest();	
+			if (post == "archives")
+			{
+				var archives = document.getElementById('archivesLink');
+				archives.remove();
+			}	
+			
+			var url = 'md/' + post + '.md';
+			var client = new XMLHttpRequest();	
 
-				client.onreadystatechange = function() 
+			client.onreadystatechange = function() 
+			{
+				if((client.readyState == 4 && client.status == 200)) 
 				{
-					if((client.readyState == 4 && client.status == 200)) 
-					{
-						markdown = client.responseText;
-					}
-				
-					html = converter.makeHtml(markdown);
-					target.innerHTML = html;
+					markdown = client.responseText;
 				}
-				client.open('GET', url);
-				client.send();
+				
+				html = converter.makeHtml(markdown);
+				target.innerHTML = html;
 			}
+			client.open('GET', url);
+			client.send();
 		</script>
 	</body>
 </html>
