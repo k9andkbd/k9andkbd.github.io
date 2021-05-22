@@ -83,9 +83,14 @@
 			var searchQuery = window.location.search;
 			const urlParams = new URLSearchParams(searchQuery);
 			var post = urlParams.get('p');
-		
+			
 			var postKeys = [];
 			for (var p in postsMetadata) postKeys.push(p);
+			
+			if (post == undefined)
+			{
+				post = postKeys[0];
+			}
 			
 			if(!postKeys.includes(post))
 			{
