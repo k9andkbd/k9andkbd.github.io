@@ -1,7 +1,9 @@
 var logos = [{
 		"image": "images/logo_boum.png",
 		"attribution": "<a href='http://comics.boumerie.com/about/'>Boum</a>"
-	}, {
+	}
+	
+	/*, {
 		"image": "images/logo_tlauzon.png",
 		"attribution": "<a href='https://www.instagram.com/toddlauzon/'>Todd Lauzon</a>"
 	}, {
@@ -20,7 +22,7 @@ var logos = [{
 		"image": "images/logo_frenaud.png",
 		"attribution": "<a href='https://www.facebook.com/FrancisRenaudArt/'>Francis Renaud</a>"
 	}
-
+*/
 ];
 
 var logoIndex = Math.floor(Math.random() * logos.length);
