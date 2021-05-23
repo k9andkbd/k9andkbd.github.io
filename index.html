@@ -25,7 +25,7 @@
 		<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 		<meta name="theme-color" content="#ffffff">
 		<link href="reset.css" rel="stylesheet" type="text/css">
-		<link href="k9-dark.css" rel="stylesheet" type="text/css">
+		<link href="k9-dark.css" rel="stylesheet" type="text/css" id="theme-link">
 		<link rel="stylesheet" href="styles/tomorrow-night.css">
 		<link rel="stylesheet" href="styles/font-awesome.min.css">
 		<script src="logo.js"></script>
@@ -48,7 +48,8 @@
 					© 2021 Eric J. Schweichler. written in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, published on <a href="https://pages.github.com">Github Pages</a> with <a href="http://showdownjs.com">Showdownjs</a>. Logo by 
 					<script>
 					attribution();
-					</script>.<br>
+					</script>.<br> 
+					<a href="#" class="btn-toggle">Toggle Dark-Mode</a><br>
 					<br>
 				</div>
 			</div>
@@ -124,6 +125,38 @@
 			}
 			client.open('GET', url);
 			client.send();
+			
+			// Select the button
+			const btn = document.querySelector(".btn-toggle");
+			// Select the stylesheet <link>
+			const css = document.querySelector("#theme-link");
+			
+			const currentTheme = localStorage.getItem("theme");
+			
+			// If the current theme in localStorage is "dark"...
+			if (currentTheme == "light") {
+			  // ...then use the .dark-theme class
+				css.href = "k9.css";
+			}
+			
+			let theme = "dark";
+			
+			// Listen for a click on the button
+			btn.addEventListener("click", function() {
+			  // If the current URL contains "ligh-theme.css"
+			  if (css.getAttribute("href") == "k9.css") {
+			    // ... then switch it to "dark-theme.css"
+			    css.href = "k9-dark.css";
+				theme = "dark";
+			  // Otherwise...
+			  } else {
+			    // ... switch it to "light-theme.css"
+			    css.href = "k9.css";
+				theme = "light";
+			  }
+			  
+			  localStorage.setItem("theme", theme);
+			});
 		</script>
 		<noscript>Sorry.  This website requires Javascript.</noscript>
 	</body>
