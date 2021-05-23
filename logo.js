@@ -1,10 +1,12 @@
 var logos = [{
 		"image": "images/logo_boum.png",
-		"attribution": "<a href='http://comics.boumerie.com/about/'>Boum</a>"
+		"link": "http://comics.boumerie.com/about/",
+		"name": "Boum"
 	}, {
 		"image": "images/logo_tlauzon.png",
-		"attribution": "<a href='https://www.instagram.com/toddlauzon/'>Todd Lauzon</a>"
-	}
+		"link": "https://www.instagram.com/toddlauzon/",
+		"name": "Todd Lauzon"
+		}
 
 	/*, {
 		"image": "images/logo_sweeny.jpg",
@@ -28,9 +30,10 @@ var logos = [{
 var logoIndex = Math.floor(Math.random() * logos.length);
 
 function logo() {
-	document.write("<img src='" + logos[logoIndex].image + "'>");
+	text = "Canine & Keyboard logo by ";
+	document.write("<img alt = '"+ text + logos[logoIndex].name +" A friendly cartoon dog holding a keyboard with a keyboard hanging from around the neck.' src='" + logos[logoIndex].image + "' >");
 }
 
 function attribution() {
-	document.write(logos[logoIndex].attribution);
+	document.write("<a href='" + logos[logoIndex].link + "' >" + logos[logoIndex].name + "</a>");
 }
