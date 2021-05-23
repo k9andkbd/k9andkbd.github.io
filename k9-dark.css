@@ -208,8 +208,8 @@ img#logo {
 	color: #bbb;
 }
 #links a:hover {
-	color: #333;
-	border-color: #333;
+	color: #aaa;
+	border-color: #aaa;
 }
 #links li {
     margin-right: 15px;
