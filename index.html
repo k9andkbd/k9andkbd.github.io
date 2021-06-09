@@ -78,7 +78,6 @@
 		<script>	
 			var postKeys = [];
 			for (var p in postsMetadata) postKeys.push(p);
-			
 			var post = latestPost;
 						
 			// Try to load the page paramter from the url.
@@ -100,8 +99,7 @@
 			var target = document.getElementById('post');
 			var html = "";
 			var done = false;
-			var markdown = '# 404 - (╯°□°)╯︵ ┻━┻ \n' +
-					'Found a broken link? [Email me about it.](mailto:eric.schweichler+k9andkbd@gmail.com?subject="Broken Link")';
+			var markdown = "";
 			
 			// if we are showing the archives - remove the link in the footer for the archives
 			if (post == "archives")
@@ -111,24 +109,19 @@
 				archives.remove();
 			
 				// display the archives
-				console.log(postsMetadata);
 				for (const [key, value] of Object.entries(postsMetadata))
 				{
-					console.log(value.title);
 					if(value.display)
-					markdown +=  "<span class='archiveDate'>" + value.date + " - </span> [" + value.title + "](?=" + value.link + ")<br>";
+					markdown +=  "<span class='archiveDate'>" + value.date + " - </span> [" + value.title + "](?p=" + value.link + ")<br>";
 				}			
 				
 				html = converter.makeHtml(markdown);
 				target.innerHTML = html;
-				
-				done = true;
 			}	
-			
-			if(!done)
+			else
 			{ 
 				var url = 'md/' + post + '.md';
-				alert(url);
+				console.log(url);
 				var client = new XMLHttpRequest();	
 
 				client.onreadystatechange = function() 
