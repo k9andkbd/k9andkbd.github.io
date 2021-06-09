@@ -306,3 +306,8 @@ sup {
 sub {
     bottom: -0.25em;
 }
+.archiveDate
+{
+	font-family: "Courier New";
+	font-size: .75em;
+}

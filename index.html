@@ -93,13 +93,6 @@
 				{
 					post = "404";
 				}
-				
-				// if we are showing the archives - remove the link in the footer for the archives
-				if (post == "archives")
-				{
-					var archives = document.getElementById('archivesLink');
-					archives.remove();
-				}	
 			}
 						
 			// load the post 
@@ -109,21 +102,44 @@
 			var markdown = '# 404 - (╯°□°)╯︵ ┻━┻ \n' +
 					'Found a broken link? [Email me about it.](mailto:eric.schweichler+k9andkbd@gmail.com?subject="Broken Link")';
 			
-			var url = 'md/' + post + '.md';
-			var client = new XMLHttpRequest();	
-
-			client.onreadystatechange = function() 
+			// if we are showing the archives - remove the link in the footer for the archives
+			if (post == "archives")
 			{
-				if((client.readyState == 4 && client.status == 200)) 
+				markdown = "";
+				var archives = document.getElementById('archivesLink');
+				archives.remove();
+			
+				// display the archives
+				console.log(postsMetadata);
+				for (const [key, value] of Object.entries(postsMetadata))
 				{
-					markdown = client.responseText;
-				}
+					console.log(value.title);
+					if(value.display)
+					markdown +=  "<span class='archiveDate'>" + value.date + " - </span> [" + value.title + "](?=" + value.link + ")<br>";
+				}			
 				
 				html = converter.makeHtml(markdown);
 				target.innerHTML = html;
+			}	
+			else
+			{ 
+				var url = 'md/' + post + '.md';
+				var client = new XMLHttpRequest();	
+
+				client.onreadystatechange = function() 
+				{
+					if((client.readyState == 4 && client.status == 200)) 
+					{
+						markdown = client.responseText;
+					}
+				
+					html = converter.makeHtml(markdown);
+					target.innerHTML = html;
+				}
+				client.open('GET', url);
+				client.send();
 			}
-			client.open('GET', url);
-			client.send();
+			
 			
 			// Select the button
 			const btn = document.querySelector(".theme-toggle");
