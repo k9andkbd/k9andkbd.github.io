@@ -12,19 +12,19 @@ var postsMetadata = {
 		"link": "RaySmith",
 		"display": true
 	},
-	"IBleedSixColoursToo.md": {
+	"IBleedSixColoursToo": {
 		"date": "01 Apr 2018",
 		"title": "I Bleed Six Colours Too",
 		"link": "IBleedSixColoursToo",
 		"display": true
 	},
-	"ResumeAndInterviewTips.md": {
+	"ResumeAndInterviewTips": {
 		"date": "01 Apr 2018",
 		"title": "Resume And Interview Tips",
 		"link": "ResumeAndInterviewTips",
 		"display": true
 	},
-	"TheQuantifiedCanine.md": {
+	"TheQuantifiedCanine": {
 		"date": "01 Apr 2018",
 		"title": "The Quantified Canine",
 		"link": "TheQuantifiedCanine",
