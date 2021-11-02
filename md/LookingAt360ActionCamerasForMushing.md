@@ -17,6 +17,10 @@ I’ve spent a lot of time over the last week comparing the pros and cons of the
 
 I’ll update this post when I order something.
 
+**Update:** Here's a test video from the Insta360 One R mounted on a fairly long monopod.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zWv2jj5QmpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Update:** I've ordered the Insta360 One R.  Hopefully I'll have it in time for a little kayaking adventure next weekend. 
 
 ![Insta360 One R Twin Edition](/images/post/2021/Insta360_one_r.jpg)
