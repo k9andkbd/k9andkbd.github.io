@@ -24,56 +24,56 @@
 		<meta name="msapplication-TileColor" content="#ffffff">
 		<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 		<meta name="theme-color" content="#ffffff">
-		
 		<link href="reset.css" rel="stylesheet" type="text/css">
 		<link href="k9-dark.css" rel="stylesheet" type="text/css" id="theme-link">
-		<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+		<link rel="stylesheet" href="styles/tomorrow-night.css">
 		<link rel="stylesheet" href="styles/font-awesome.min.css">
 		<script src="logo.js"></script>
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 		<script src="js/showdown.min.js"></script>
 	</head>
-	<body style="max-width: 70rem;">
-		<header>
-			<div style="width:25%;float:right;">
-		  	<ul style="list-style:none;text-align:left;">
-				<li><a href="/"><i class="fa fa-home"></i> Home</a></li>
-				<li><a href="?p=projects"><i class="fa fa-rocket"></i> Projects</a></li>
-				<li><a href="https://twitter.com/k9andkbd"><i class="fa fa-twitter"></i> twitter</a></li>
-				<li><a href="https://instagram.com/k9andkbd/"><i class="fa fa-instagram"></i> instagram</a></li>
-				<li><a href="?p=archives"><i class="fa fa-archive"></i> Archives</a></li>
-			</ul>
+	<body>
+		<div id="page">
+			<div id="content">
+				<div id="posts">
+					<div id="post">
+						
+					</div>
+					<hr>
+					<p id="archivesLink">
+						<a href="?p=archives">Visit the Archive for more posts.</a>
+					</p>
+				</div>
+				<div id="copyright">
+					© 2021 Eric J. Schweichler. written in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, published on <a href="https://pages.github.com">Github Pages</a> with <a href="http://showdownjs.com">Showdownjs</a>. Logo by 
+					<script>
+						attribution();
+					</script>.
+				</div>
 			</div>
-			<div style="width:75%;float:right;">
-				<h1><a href="/">Canine & Keyboard</a></h1>
-				<span id="sidebarFoot">by Eric J. Schweichler</span> <br>
+			<div id="sidebar">
+				<a href="/">Canine & Keyboard</a><br>
+				<span id="sidebarFoot">by Eric J. Schweichler</span> 
 				<script>
 				logo();
 				</script>
-			</div>
-		</header>
-		<main>
-			<div style="width:65%;float:left;" id="post">
-			</div>
-			<div style="width:30%;float:right;">
-				<h1>Micro.blog</h1> 
+                  <div id="links">
+  				  	<ul>
+  						<li><a href="/"><i class="fa fa-home"></i> Home</a></li>
+						<br>
+  				 		<li><a href="?p=projects"><i class="fa fa-rocket"></i> Projects</a></li>
+  						<li><a href="https://twitter.com/k9andkbd"><i class="fa fa-twitter"></i> twitter</a></li>
+  						<li><a href="https://instagram.com/k9andkbd/"><i class="fa fa-instagram"></i> instagram</a></li>
+  						<br>
+  						<li><a href="?p=archives"><i class="fa fa-archive"></i> Archives</a></li>
+						<br>
+						<li><a href="" class="theme-toggle"><i class="fa fa-toggle-on"></i> Toggle Theme</a></li>
+  					</ul>
+				</div>
+				<span class="microblog_title">Micro.blog</span> 
 				<script type="text/javascript" src="https://micro.blog/sidebar.js?username=k9andkbd"></script> <span class="microblog_more"><a href="https://micro.blog/k9andkbd">more...</a></span>
 			</div>
-		</main>
-		<footer>
-		<p id="archivesLink">
-			<a href="?p=archives">Visit the Archive for more posts.</a>
-		</p>
-		© 2021 Eric J. Schweichler. written in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, published on <a href="https://pages.github.com">Github Pages</a> with <a href="http://showdownjs.com">Showdownjs</a>.<br>
-		Logo by 
-		<script>
-			attribution();
-		</script>. 
-			<!--<p>
-				<a href="" class="theme-toggle"><i class="fa fa-toggle-on"></i> Toggle Theme</a>
-			</p>
-				-->
-	</footer>
+		</div>
 		<script src="postsMetadata.js"></script>
 		<script>	
 			var postKeys = [];
@@ -137,6 +137,40 @@
 				client.open('GET', url);
 				client.send();
 			}
+			
+			
+			
+			// Select the button
+			const btn = document.querySelector(".theme-toggle");
+			// Select the stylesheet <link>
+			const css = document.querySelector("#theme-link");
+			
+			const currentTheme = localStorage.getItem("theme");
+			
+			// If the current theme in localStorage is "dark"...
+			if (currentTheme == "light") {
+			  // ...then use the .dark-theme class
+				css.href = "k9.css";
+			}
+			
+			let theme = "dark";
+			
+			// Listen for a click on the button
+			btn.addEventListener("click", function() {
+			  // If the current URL contains "ligh-theme.css"
+			  if (css.getAttribute("href") == "k9.css") {
+			    // ... then switch it to "dark-theme.css"
+			    css.href = "k9-dark.css";
+				theme = "dark";
+			  // Otherwise...
+			  } else {
+			    // ... switch it to "light-theme.css"
+			    css.href = "k9.css";
+				theme = "light";
+			  }
+			  
+			  localStorage.setItem("theme", theme);
+			});
 		</script>
 		<noscript>Sorry.  This website requires Javascript.</noscript>
 	</body>

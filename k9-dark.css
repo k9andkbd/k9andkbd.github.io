@@ -1,5 +1,4 @@
 html,body{     
-	background-color: #303030;
     font-family: -apple-system, '.SFNSDisplay-Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 16px;
 	margin-top:1em;
@@ -61,20 +60,6 @@ hr {
   border-bottom: 1px solid #ddd;
 }
 
-v
-#header {
-	height:300px;
-	background-image:url(images/header.jpg);
-	background-position:0 -300px;
-	background-repeat:no-repeat;
-	background-size:cover;
-	margin-bottom:1em;
-	min-width:900px;
-}
-#page {
-	width:1024px;
-	margin:0 auto;
-}
 #sidebar {
     font-family: "Courier New";
     font-size: 2em;
