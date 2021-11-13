@@ -230,18 +230,6 @@ abbr {
     font-size: 1.25em;
     margin-bottom: 1em;
 }
-.microblog_post a,
-.post a,
-#posts a,
-#copyright a {
-    color: #fb6a17;
-}
-.microblog_post a:hover,
-.post a:hover,
-#posts a:hover {
-    text-decoration: underline;
-	color: #ba551a;
-}
 .post .date {
     margin-bottom: 1em;
 }
