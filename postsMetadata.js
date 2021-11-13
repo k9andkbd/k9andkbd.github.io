@@ -26,5 +26,11 @@ var postsMetadata = {
 		"date": "",
 		"title": "404",
 		"link": "404"
-	}
+	},
+	"BeastieBoys": {
+		"date": "16 Nov 2021",
+		"title": "Hello Nasty, Happy Birthday Merlin!",
+		"link": "BeastieBoys",
+		"display": true
+	
 }
