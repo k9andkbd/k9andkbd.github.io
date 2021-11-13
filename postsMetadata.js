@@ -32,5 +32,5 @@ var postsMetadata = {
 		"title": "Hello Nasty, Happy Birthday Merlin!",
 		"link": "BeastieBoys",
 		"display": true
-	
+	}
 }
