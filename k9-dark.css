@@ -122,32 +122,33 @@ img#logo {
 #posts {
 
 }
-#posts h1 {
+#post h1 {
     font-size: 32px;
     font-weight: 700;
     padding-bottom: .25em;
 }
-#posts h2 {
+#post h2 {
     font-size: 22px;
     font-weight: 700;
     padding-bottom: .25em;
-}
-#posts p {
-    margin-bottom: 1em;
-    font-size: 1.5em;
-    font-weight: 300;
-    line-height: 1.75em;
 }
 .date {
     color: #999;
     font-size: .8em;
 }
 #post {
-    border-bottom: 1px solid grey;
-    color: #fff;
+    color: #eee;
     font-size: 17px;
     margin-bottom: 1em;
     padding-bottom: 1em;
+}
+#post p {
+    margin-bottom: 1em;
+    line-height: 1.5em;
+}
+#post img {
+    display: block;
+    margin: 0 auto;
 }
 .postTitle {
     font-size: 22px;
@@ -188,14 +189,6 @@ em {
 abbr {
     border-bottom: 1px dashed black;
 }
-#post p {
-    line-height: 1.55em;
-    margin-bottom: 1em;
-}
-#post img {
-    display: block;
-    margin: 0 auto;
-}
 .archiveMonthEntry {
     padding-bottom: 1em;
 }
@@ -211,7 +204,7 @@ abbr {
 }
 
 #post:after {
-	font: normal normal normal 1.0rem FontAwesome;
+	font: normal normal normal 2.0rem FontAwesome;
 	content:"\f11c";
 	margin: 0 0.5em 0 0;
 }
