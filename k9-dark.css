@@ -125,12 +125,12 @@ img#logo {
 #post h1 {
     font-size: 32px;
     font-weight: 700;
-    padding-bottom: 2em;
+    padding-bottom: 1em;
 }
 #post h2 {
     font-size: 22px;
     font-weight: 700;
-    padding-bottom: 1em;
+    padding-bottom: .5em;
 }
 .date {
     color: #999;
@@ -149,6 +149,13 @@ img#logo {
 #post img {
     display: block;
     margin: 0 auto;
+    max-width: 690px;
+    height: auto;
+}
+#post:after {
+	font: normal normal normal 2.0rem FontAwesome;
+	content:"\f11c";
+	margin: 0 0.5em 0 0;
 }
 #copyright {
     clear: both;
@@ -185,16 +192,7 @@ abbr {
 .archiveEntry {
     padding-bottom: .1em;
 }
-.post img {
-    max-width: 690px;
-    height: auto;
-}
 
-#post:after {
-	font: normal normal normal 2.0rem FontAwesome;
-	content:"\f11c";
-	margin: 0 0.5em 0 0;
-}
 
 code {
     font-family: "Courier New";
