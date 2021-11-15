@@ -25,7 +25,7 @@ I’ll update this post when I order something.
 
 **Update:** Here's a test video from the Insta360 One R mounted on a fairly long monopod.
 
-<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zWv2jj5QmpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><center>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zWv2jj5QmpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 **Product Links**
 - [Insta360 One R product page](https://www.insta360.com/product/insta360-oner_twin-edition)
