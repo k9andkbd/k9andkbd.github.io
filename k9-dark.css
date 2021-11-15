@@ -125,12 +125,12 @@ img#logo {
 #post h1 {
     font-size: 32px;
     font-weight: 700;
-    padding-bottom: 1em;
+    padding-bottom: .5em;
 }
 #post h2 {
     font-size: 22px;
     font-weight: 700;
-    padding-bottom: .5em;
+    padding-bottom: .25em;
 }
 .date {
     color: #999;
