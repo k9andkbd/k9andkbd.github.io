@@ -1,11 +1,15 @@
 ##### 16 Nov 2021
-#[Beastie Boys](?p=BeastieBoys)
+#[Happy Birthday Merlin!](?p=BeastieBoys)
 
-Hey Merlin!  This is a secret page, just for you.  If you are going to listen to rap you should at least listen to something good. ;)
+Hey Merlin!  Happy Birthday!  This is a secret page, just for you. 
+
+If you are going to listen to rap you should at least listen to something good. Ahaha!
 
 I thought I’d invest in your education a bit!
 
-### Albums ###
+![Hello Nasty](/images/post/2021/beastie_boys_hello_nasty_cover.jpg)
+
+### Beastie Boys Albums ###
 
 * [Licensed to Ill](https://music.apple.com/ca/album/licensed-to-ill/1440912031)
 * [Paul’s Boutique](https://music.apple.com/ca/album/pauls-boutique-20th-anniversary-remastered-edition/721276795) - [Wikipedia](https://en.wikipedia.org/wiki/Paul%27s_Boutique) - This is the Beastie Boys real breakout moment.  The album did not sell as well as “Licensed to ill” but it shows what they were capable of, and the following albums are all similarly amazing.
