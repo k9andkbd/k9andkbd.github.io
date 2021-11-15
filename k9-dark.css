@@ -142,15 +142,12 @@ img#logo {
     color: #999;
     font-size: .8em;
 }
-.post {
+#post {
     border-bottom: 1px solid grey;
     color: #000;
     font-size: 15px;
     margin-bottom: 1em;
     padding-bottom: 1em;
-}
-.post p {
-	margin-bottom:1em;
 }
 .postTitle {
     font-size: 22px;
@@ -191,22 +188,22 @@ em {
 abbr {
     border-bottom: 1px dashed black;
 }
-.post p {
+#post p {
     line-height: 1.55em;
     margin-bottom: 1em;
 }
-.post h1 {
+#post h1 {
     font-size: 1.5em;
     margin-bottom: 1em;
 }
-.post h2 {
+#post h2 {
     font-size: 1.25em;
     margin-bottom: 1em;
 }
-.post .date {
+#post .date {
     margin-bottom: 1em;
 }
-.post img {
+#post img {
     display: block;
     margin: 0 auto;
 }
