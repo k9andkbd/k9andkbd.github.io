@@ -125,12 +125,12 @@ img#logo {
 #post h1 {
     font-size: 32px;
     font-weight: 700;
-    padding-bottom: .25em;
+    padding-bottom: 2em;
 }
 #post h2 {
     font-size: 22px;
     font-weight: 700;
-    padding-bottom: .25em;
+    padding-bottom: 1em;
 }
 .date {
     color: #999;
@@ -149,19 +149,6 @@ img#logo {
 #post img {
     display: block;
     margin: 0 auto;
-}
-.postTitle {
-    font-size: 22px;
-    font-weight: 700;
-    padding-bottom: .5em;
-}
-.postTitle a {
-    color: #000!important;
-    text-decoration: none;
-}
-.postTitle a:hover {
-    color: #253253;
-    text-decoration: underline;
 }
 #copyright {
     clear: both;
