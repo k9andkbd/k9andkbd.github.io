@@ -145,14 +145,14 @@ img#logo {
 #post {
     border-bottom: 1px solid grey;
     color: #fff;
-    font-size: 15px;
+    font-size: 17px;
     margin-bottom: 1em;
     padding-bottom: 1em;
 }
 .postTitle {
     font-size: 22px;
     font-weight: 700;
-    padding-bottom: .25em;
+    padding-bottom: .5em;
 }
 .postTitle a {
     color: #000!important;
