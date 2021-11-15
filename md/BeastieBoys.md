@@ -1,18 +1,20 @@
 ##### 16 Nov 2021
 #[Beastie Boys](?p=BeastieBoys)
 
-This is a secret page, just for you.  If you are going to listen to rap you should at least listen to something good. ;)
+Hey Merlin!  This is a secret page, just for you.  If you are going to listen to rap you should at least listen to something good. ;)
 
 I thought I’d invest in your education a bit!
 
 ### Albums ###
 
-* [Licensed to Ill](https://music.apple.com/ca/album/licensed-to-ill/1440912031) - 
+* [Licensed to Ill](https://music.apple.com/ca/album/licensed-to-ill/1440912031)
 * [Paul’s Boutique](https://music.apple.com/ca/album/pauls-boutique-20th-anniversary-remastered-edition/721276795) - [Wikipedia](https://en.wikipedia.org/wiki/Paul%27s_Boutique) - This is the Beastie Boys real breakout moment.  The album did not sell as well as “Licensed to ill” but it shows what they were capable of, and the following albums are all similarly amazing.
-* [Check Your Head](https://music.apple.com/ca/album/check-your-head-deluxe-version-remastered/724303425) - 
-* [Ill Communication](https://music.apple.com/ca/album/ill-communication-deluxe-version-remastered/72489984) - 
+* [Check Your Head](https://music.apple.com/ca/album/check-your-head-deluxe-version-remastered/724303425)
+* [Ill Communication](https://music.apple.com/ca/album/ill-communication-deluxe-version-remastered/72489984)
 * [Hello Nasty](https://music.apple.com/ca/album/hello-nasty-deluxe/721224205) - I bought this album when it came out in 1998 - and it remains one of my favorite albums of all time.  Happy Birthday!	
 * [To the 5 Boroughs](https://music.apple.com/ca/album/to-the-5-boroughs-deluxe-version/1467021108) - An excellent follow-up to Hello Nasty and an absolute love letter to New York City in the wake of 9/11.
+
+[Here's a playlist of some of my favorite tracks](https://music.apple.com/ca/playlist/erics-favorite-beastie-boys-tracks/pl.u-pp6mTom62L) in no particular order.
 
 ### Cool Beastie Boys Music Videos ###
 
@@ -36,7 +38,7 @@ I thought I’d invest in your education a bit!
 
 [Run DMC Essentials Playlist](https://music.apple.com/ca/playlist/run-dmc-essentials/pl.a0d7e257f2014d5ebde460c021e1c4f8) - If you are going to check out the Beastie Boys you can't pass up Run DMC.  Inspiration and comtemporaries.
 
-[Double Dee and Steinski - The Payoff Mix, Lesson Two, Lesson Three](https://music.apple.com/ca/album/what-does-it-all-mean-1983-2006-retrospective/279671257) - An absolute master class in sapleling and mising.
+[Double Dee and Steinski - The Payoff Mix, Lesson Two, Lesson Three](https://music.apple.com/ca/album/what-does-it-all-mean-1983-2006-retrospective/279671257) - An absolute master class in sampling and mixing.
  
 [Watsky](https://music.apple.com/ca/artist/watsky/340587935) - An absolutely genious on the mic blending poetry and rap. Smart lyrics and impecable delivery. Hillarious too!
 
