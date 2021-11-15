@@ -149,6 +149,9 @@ img#logo {
     margin-bottom: 1em;
     padding-bottom: 1em;
 }
+.post p {
+	margin-bottom:1em;
+}
 .postTitle {
     font-size: 22px;
     font-weight: 700;
