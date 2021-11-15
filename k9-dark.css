@@ -144,7 +144,7 @@ img#logo {
 }
 #post {
     border-bottom: 1px solid grey;
-    color: #000;
+    color: #fff;
     font-size: 15px;
     margin-bottom: 1em;
     padding-bottom: 1em;
@@ -190,17 +190,6 @@ abbr {
 }
 #post p {
     line-height: 1.55em;
-    margin-bottom: 1em;
-}
-#post h1 {
-    font-size: 1.5em;
-    margin-bottom: 1em;
-}
-#post h2 {
-    font-size: 1.25em;
-    margin-bottom: 1em;
-}
-#post .date {
     margin-bottom: 1em;
 }
 #post img {
