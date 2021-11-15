@@ -1,13 +1,15 @@
 ##### 16 Nov 2021
 #[Happy Birthday Merlin!](?p=BeastieBoys)
 
-Hey Merlin!  Happy Birthday!  This is a secret page, just for you. 
+#### This is a secret page, just for you. ####
 
 If you are going to listen to rap you should at least listen to something good. Ahaha!
 
-I thought I’d invest in your education a bit!
+I thought I’d invest in your musical education a tiny bit!
 
-![Hello Nasty](/images/post/2021/beastie_boys_hello_nasty_cover.jpg)
+Here's a link to Apple Music because I'm not even sure if you know how audio CDs work.
+
+[![Hello Nasty](/images/post/2021/beastie_boys_hello_nasty_cover.jpg)](https://music.apple.com/ca/album/hello-nasty-deluxe/721224205)
 
 ### Beastie Boys Albums ###
 
@@ -46,10 +48,10 @@ I thought I’d invest in your education a bit!
 [Run DMC Essentials Playlist](https://music.apple.com/ca/playlist/run-dmc-essentials/pl.a0d7e257f2014d5ebde460c021e1c4f8) - If you are going to check out the Beastie Boys you can't pass up Run DMC.  Inspiration and comtemporaries.
 
 
-[Double Dee and Steinski - The Payoff Mix, Lesson Two, Lesson Three](https://music.apple.com/ca/album/what-does-it-all-mean-1983-2006-retrospective/279671257) - An absolute master class in sampling and mixing.
+[Double Dee and Steinski - The Payoff Mix, Lesson Two, Lesson Three](https://music.apple.com/ca/album/what-does-it-all-mean-1983-2006-retrospective/279671257) - A master class in sampling and mixing.
  
  
-[Watsky](https://music.apple.com/ca/artist/watsky/340587935) - An absolutely genious on the mic blending poetry and rap. Smart lyrics and impecable delivery. Hillarious too!
+[Watsky](https://music.apple.com/ca/artist/watsky/340587935) - A genious on the mic blending poetry and rap. Smart lyrics and impecable delivery. Hillarious too!
 
 
 [Rudimental](https://music.apple.com/ca/playlist/rudimental-essentials/pl.30cee658a239437c87ae495c48871612) - More DnB, R&B and EDM but you might like them. Great lyrics and beats. [Home](https://music.apple.com/ca/album/home-deluxe-edition/666989860) is a absolute classic album that I listen to all the time. (Can something from 2013 already be a classic?  I guess if I say so, it is!)
