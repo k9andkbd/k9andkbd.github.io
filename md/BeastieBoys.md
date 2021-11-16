@@ -12,7 +12,7 @@ Here's a link to Apple Music because I'm not even sure if you know how audio CDs
 ### Beastie Boys Albums ###
 
 * [Licensed to Ill](https://music.apple.com/ca/album/licensed-to-ill/1440912031)
-* [Paul’s Boutique](https://music.apple.com/ca/album/pauls-boutique-20th-anniversary-remastered-edition/721276795) - [Wikipedia](https://en.wikipedia.org/wiki/Paul%27s_Boutique) - This is the Beastie Boys real breakout moment.  The album did not sell as well as “Licensed to ill” but it shows what they were capable of, and the following albums are all similarly amazing.
+* [Paul’s Boutique](https://music.apple.com/ca/album/pauls-boutique-20th-anniversary-remastered-edition/721276795) - [Wikipedia](https://en.wikipedia.org/wiki/Paul%27s_Boutique) - The album did not sell as well as a follow-up to “Licensed to Ill” but it showed what they were capable of.  Paul's Botique changed Hip-Hop music forever after.
 * [Check Your Head](https://music.apple.com/ca/album/check-your-head-deluxe-version-remastered/724303425)
 * [Ill Communication](https://music.apple.com/ca/album/ill-communication-deluxe-version-remastered/72489984)
 * [Hello Nasty](https://music.apple.com/ca/album/hello-nasty-deluxe/721224205) - I bought this album when it came out in 1998 - and it remains one of my favorite albums of all time.  Happy Birthday!	
@@ -43,6 +43,10 @@ Here's a link to Apple Music because I'm not even sure if you know how audio CDs
 [Run DMC Essentials Playlist](https://music.apple.com/ca/playlist/run-dmc-essentials/pl.a0d7e257f2014d5ebde460c021e1c4f8) - If you are going to check out the Beastie Boys you can't pass up Run DMC.  Inspiration and comtemporaries.
 
 [Double Dee and Steinski - The Payoff Mix, Lesson Two, Lesson Three](https://music.apple.com/ca/album/what-does-it-all-mean-1983-2006-retrospective/279671257) - A master class in sampling and mixing.
+
+[The Dust Brothers](https://music.apple.com/ca/playlist/the-dust-brothers-behind-the-boards/pl.4538d5dc51bf419ea9d5e05ed1954a64) - The B Boy's collaborators on Paul's Botique. 
+ 
+[The Grey Album](https://www.youtube.com/watch?v=X-iA7AyFlU0) - Jay Z's Black Album remixed with The Beatle's White Album. Incredible stuff! 
  
 [Watsky](https://music.apple.com/ca/artist/watsky/340587935) - A genious on the mic blending poetry and rap. Smart lyrics and impecable delivery. Hillarious too!
 
