@@ -1,14 +1,11 @@
 ##### 16 Nov 2021
 #[Happy Birthday Merlin!](?p=BeastieBoys)
 
-#### This is a secret page, just for you. ####
+### This is a secret page, just for you. 🤫###
 
+If you are going to listen to rap you should at least listen to something good, so I thought I’d invest in your musical education a tiny bit!
 
-If you are going to listen to rap you should at least listen to something good. 😉
-
-I thought I’d invest in your musical education a tiny bit!
-
-Here's a link to Apple Music because I'm not even sure if you know how audio CDs work.
+Here's a link to Apple Music because I'm not even sure if you know how audio CDs work. 😉
 
 [![Hello Nasty](/images/post/2021/beastie_boys_hello_nasty_cover.jpg)](https://music.apple.com/ca/album/hello-nasty-deluxe/721224205)
 
