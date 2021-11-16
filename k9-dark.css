@@ -149,7 +149,7 @@ img#logo {
 #post img {
     display: block;
     margin: 0 auto;
-    max-width: 690px;
+    max-width: 600px;
     height: auto;
 }
 #post:after {
