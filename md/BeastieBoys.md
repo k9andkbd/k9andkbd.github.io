@@ -24,10 +24,10 @@ Here's a link to Apple Music because I'm not even sure if you know how audio CDs
 
 * [Fight for your Right to Party](https://www.youtube.com/watch?v=eBShN8qT4lk) - It is supopsed to be satire - the very "party bros" they were trying make fun of didn't realize it was a joke - the success of this song, video and tour made them super famous but maybe not for the reasons they wanted.  Watch the documentary below for more.
 * [Three MCs and One DJ](https://youtu.be/XflfiylNNXY) - is an epic video, not quite shot in a single take but still well done.
-* [Alive](https://youtu.be/JkeE2O15RFs)
+* [Alive](https://youtu.be/JkeE2O15RFs) 
 * [Body Movin’](https://www.youtube.com/watch?v=uvRBUw_Ls2o)
-* [Sabotage](https://www.youtube.com/watch?v=z5rRZdiu1UE)
-* [Intergalactic](https://www.youtube.com/watch?v=qORYO0atB6g)
+* [Sabotage](https://www.youtube.com/watch?v=z5rRZdiu1UE) - Sure this makes sense as a 70's cop show...
+* [Intergalactic](https://www.youtube.com/watch?v=qORYO0atB6g) - Iconic!
 * [Hey Ladies](https://www.youtube.com/watch?v=Naf5uJYGoiU)
 
 ### Beastie Boys Story ###
