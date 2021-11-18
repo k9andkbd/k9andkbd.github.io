@@ -15,7 +15,7 @@ Here's a link to Apple Music because I'm not even sure if you know how audio CDs
 * [Paul’s Boutique](https://music.apple.com/ca/album/pauls-boutique-20th-anniversary-remastered-edition/721276795) - [Wikipedia](https://en.wikipedia.org/wiki/Paul%27s_Boutique) - The album did not sell as well as a follow-up to “Licensed to Ill” but it showed what they were capable of.  Paul's Botique changed Hip-Hop music forever after.
 * [Check Your Head](https://music.apple.com/ca/album/check-your-head-deluxe-version-remastered/724303425) - This is where my best friend James really got into the Beastie Boys and I didn't like them at all... too weird!
 * [Ill Communication](https://music.apple.com/ca/album/ill-communication-deluxe-version-remastered/72489984) - By 1994 I was fan and I bought this album for James' birthday that year.
-* [Hello Nasty](https://music.apple.com/ca/album/hello-nasty-deluxe/721224205) - I bought this album when it came out in 1998 - and it remains one of my favorite albums of all time.  Happy Birthday!	
+* [Hello Nasty](https://music.apple.com/ca/album/hello-nasty-deluxe/721224205) - I bought this album when it came out in 1998 - and it remains one of my favorite albums of all time.  Happy Birthday!
 * [To the 5 Boroughs](https://music.apple.com/ca/album/to-the-5-boroughs-deluxe-version/1467021108) - An excellent follow-up to Hello Nasty and an absolute love letter to New York City in the wake of 9/11.
 * [The Mixup](https://music.apple.com/ca/album/the-mix-up/716435010) - The Boys play some funky stuff on this all instrumental album.
 * [The Hot Sauce Committee, Pt. Two](https://music.apple.com/ca/album/hot-sauce-committee-pt-two/715797667) - There is no part one. After jaming on The Mixup Up the Boys got back to Rhymin' and Stealin'.
