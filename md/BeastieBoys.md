@@ -5,7 +5,9 @@
 
 If you are going to listen to rap you should at least listen to something good, so I thought I’d invest in your musical education a tiny bit!
 
-Here's a link to Apple Music because I'm not even sure if you know how audio CDs work. 😉
+When I was your age we would go to the local music store every weekend and I would buy one or two new discs each week, between 15$ and 20$ each. Sometimes all you would have heard was the single that was playing on the radio, and then you would find out the rest of the band's songs were completely different or something you didn't like at all.  Oh well, it's your new favorite album now!  You would also come home with a physical object. The disc itself, sometimes with awesome artwork printed on it. There was also the Jewel box and most of the time there was a fold out pamphelet or book full of more cool art and the lyrics from all the songs.  Now music is essentially free and limitless.  I think it's better like that but something is missing in the experience.  Here's one of my favorite albums that I thought you might enjoy, along with a whole bunch of other stuff to listen to.
+
+Tap the album for a link to Apple Music because I'm not even sure if you can even play an audio CD. 😉
 
 [![Hello Nasty](/images/post/2021/beastie_boys_hello_nasty_cover.jpg)](https://music.apple.com/ca/album/hello-nasty-deluxe/721224205)
 
