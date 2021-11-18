@@ -28,7 +28,7 @@ Here's a link to Apple Music because I'm not even sure if you know how audio CDs
 * [Three MCs and One DJ](https://youtu.be/XflfiylNNXY) - is an epic video, not quite shot in a single take but still well done.
 * [Body Movin’](https://www.youtube.com/watch?v=uvRBUw_Ls2o)
 * [Sabotage](https://www.youtube.com/watch?v=z5rRZdiu1UE) - Sure this makes sense as a 70's cop show...
-* [Intergalactic](https://www.youtube.com/watch?v=qORYO0atB6g) - Iconic! 🤖
+* [Intergalactic](https://www.youtube.com/watch?v=qORYO0atB6g) - Iconic! 🤖 See also [Celestial Greetings 2019](https://www.youtube.com/watch?v=Xw4pcGyi8Jk).
 * [Hey Ladies](https://www.youtube.com/watch?v=Naf5uJYGoiU)
 * [Rhymin' and Stealin'](https://youtu.be/U7M7d8u40I4) - A great live performance from the early days.
 * [Don't Play no Game That I Can't Win](https://www.youtube.com/watch?v=w-QIiVS_7Hs) - I can't explain this one, just watch it.
