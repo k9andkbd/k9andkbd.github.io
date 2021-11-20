@@ -63,6 +63,10 @@ Tap the album for a link to Apple Music because I'm not even sure if you can eve
 
 [Rage Against The Machine](https://music.apple.com/ca/album/rage-against-the-machine/191450810) - One of the many bands inspired by the Beastie Boys, and you can hear the references in a lot of their lyrics. James would play "Killing in the Name" in his car really loud and I hated it because they said bad words! Haha!
 
+[Lady Sovereign](https://music.apple.com/ca/album/public-warning/1444047621) - Fun, funny and some crazy flow.  "Love me or Hate me" was the big single and video, but Blah Blah is really something. Her London accent might be a bit difficult to follow.
+
+[MC Frontalot](https://music.apple.com/ca/artist/mc-frontalot/80895842) - Nerd rap par excellence. Songs about Dungeons and Dragons, Goth Girls, Giant Robots and [https://www.youtube.com/watch?v=bFOPwL32UvI](Stoop Sales)...
+
 > Hubo una vez un gran **rey** que tenía muchas tierras, un castillo y también un amor.
  
 
