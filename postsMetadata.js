@@ -1,4 +1,4 @@
-var latestPost = "LookingAt360ActionCamerasForMushing";
+var latestPost = "PortugalTravelLog";
 var postsMetadata = {
 	"PortugalTravelLog": {
 		"date": "3 April 2022",
