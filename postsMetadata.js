@@ -1,5 +1,11 @@
 var latestPost = "LookingAt360ActionCamerasForMushing";
 var postsMetadata = {
+	"PortugalTravelLog": {
+		"date": "3 April 2022",
+		"title": "Portugal Traveblog",
+		"link": "PortugalTravelLog",
+		"display": true
+	},
 	"LookingAt360ActionCamerasForMushing": {
 		"date": "12 May 2021",
 		"title": "Looking at 360° Action Cameras for Mushing",
