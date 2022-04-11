@@ -42,7 +42,7 @@ As predicted it rained all morning, so it was the perfect day to look inside a b
 
 First up was the Capela dos Ossis - the Chaple of Bones.  Yeah it’s as creepy as it sounds. All the interior walls and columns are formed out of piled bones and skulls. Ugh. 
 
-Right next door is the Cathedral of Evora, a hike up to the top of the tower and a walk around the roof is a must.  There is also a “Secret museum” which was interesting if only for the fact that it made more remember how wacky religious museums are.
+Right next door is the Cathedral of Evora, a hike up to the top of the tower and a walk around the roof is a must.  There is also a “Secret museum” which was interesting if only for the fact that it made me remember how wacky religious museums are.
 
 The Templo de Diana - Roman ruins is worth a quick stop.
 
