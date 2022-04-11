@@ -52,4 +52,4 @@ I tracked down the Termas Romanas - Ancient Roman baths inside the Evora Council
 
 Before dinner I visited the Evora public park an was delighted to discover it has a local population of peacocks, as well as some ruins which seem to be a popular spot for the fancy birds.
 
-I ate dinner O Templo - A literal hole in the wall in location only.  The food was excellent and well priced.  The owner Vasco had a story for every dish. I enjoyed the rabbit salad and the black pork cheeks with orange and watercress salad. 
+I ate dinner at O Templo - A literal hole in the wall in location only.  The food was excellent and well priced.  The owner Vasco had a story for every dish, many of which were apparently based on his grandmothers recipes.  I’m still picking up Portuguese but his stories seemed to be mostly the same in English and Portuguese.  I enjoyed the rabbit salad and the black pork cheeks with orange and watercress salad. 
