@@ -1,7 +1,7 @@
 ##### 3 April 2022
 #[Portugal Traveblog 🇵🇹](?p=PortugalTravelLog)
 
-### Last Updated: April 9, 2022
+### Last Updated: April 11, 2022
 
 I'll be updating this post as the adventure continues. [Click here](#update) to jump to the latest update.
 
