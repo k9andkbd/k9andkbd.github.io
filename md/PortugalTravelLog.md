@@ -1,7 +1,7 @@
 ##### 3 April 2022
 #[Portugal Traveblog 🇵🇹](?p=PortugalTravelLog)
 
-### Last Updated: April 11, 2022
+### Last Updated: April 13, 2022
 
 I'll be updating this post as the adventure continues. [Click here](#update) to jump to the latest update.
 
@@ -36,7 +36,6 @@ Hotel is nice and efficient and clean. Pleasant staff. Decided to stay two days 
 Evora, a classic walled city. Day one was scouting on foot. Day two will be visiting inside if it’s raining. 
 
 ### April 11, 2022 
-<a name=“update”></a>
 
 As predicted it rained all morning, so it was the perfect day to look inside a bunch o churches!
 
@@ -53,3 +52,18 @@ I tracked down the Termas Romanas - Ancient Roman baths inside the Evora Council
 Before dinner I visited the Evora public park an was delighted to discover it has a local population of peacocks, as well as some ruins which seem to be a popular spot for the fancy birds.
 
 I ate dinner at O Templo - A literal hole in the wall in location only.  The food was excellent and well priced.  The owner Vasco had a story for every dish, many of which were apparently based on his grandmothers recipes.  I’m still picking up Portuguese but his stories seemed to be mostly the same in English and Portuguese.  I enjoyed the rabbit salad and the black pork cheeks with orange and watercress salad. 
+
+### April 13, 2022 
+<a name=“update”></a>
+
+Yesterday I Drove from Evora to Beja.  Before leaving Evora I stopped to put some gas in the car.  I know gas seems expensive back home but here the price is over $3 a liter!  In any case it seems that I was able to put the proper type of fuel in the car without incident.  The reason for heading to Beja was to see the tower. It is one of the best towers I have ever climbed!  The 2 euro admission was well worth the view at the top.  It was a raining morning so climbing the exterior steps was a bit sketchy but I’ve never visited a tower that was so accessible, all the way to the top.  Also there were a lot of places where I think in another place someone would have installed a railing.
+
+After visiting the tower and taking a walk around it was time to head to Albufiera.
+
+I really lucked out on my hotel selection Albufiera.  It seemed to be really far from the beach but that is just because of the height difference.  I am sure I walked more than 10 kilometres yesterday, and that half was vertical!  It turns out that Albufiera is a flocking spot for Brits.  It’s a nice location, and not yet as terrible as Blackpool. Aaha!  
+
+When I came to dinner, all he top rated restaurants on Trip Advisor were Indian restaurants.  Well, I figured I’ll have lots of chances yet for authentic Portuguese quinine so I went for it.  I had a bit of trouble convincing the owner to choose something for me, and then we wrangled a bit of the desired heat level.  I think he was worried but it was fine.  Great flavour with the spice turned up a bit more than what the Chateaugois are accustomed to having. 
+
+After dinner I spent some time walking around downtown and taking in the night life before making my way back up the hill to the hotel so I could rest my feet.
+
+Today I’ll head up the coast, with a lunch break at Sines, and then move on to Setubal to set up camp for the night.  
