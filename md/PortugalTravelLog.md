@@ -1,7 +1,7 @@
 ##### 3 April 2022
 #[Portugal Traveblog 🇵🇹](?p=PortugalTravelLog)
 
-### Last Updated: April 13, 2022
+### Last Updated: April 14, 2022
 
 I'll be updating this post as the adventure continues. [Click here](#update) to jump to the latest update.
 
@@ -54,7 +54,6 @@ Before dinner I visited the Evora public park an was delighted to discover it ha
 I ate dinner at O Templo - A literal hole in the wall in location only.  The food was excellent and well priced.  The owner Vasco had a story for every dish, many of which were apparently based on his grandmothers recipes.  I’m still picking up Portuguese but his stories seemed to be mostly the same in English and Portuguese.  I enjoyed the rabbit salad and the black pork cheeks with orange and watercress salad. 
 
 ### April 13, 2022 
-<a name=“update”></a>
 
 Yesterday I Drove from Evora to Beja.  Before leaving Evora I stopped to put some gas in the car.  I know gas seems expensive back home but here the price is over $3 a liter!  In any case it seems that I was able to put the proper type of fuel in the car without incident.  The reason for heading to Beja was to see the tower. It is one of the best towers I have ever climbed!  The 2 euro admission was well worth the view at the top.  It was a raining morning so climbing the exterior steps was a bit sketchy but I’ve never visited a tower that was so accessible, all the way to the top.  Also there were a lot of places where I think in another place someone would have installed a railing.
 
@@ -67,3 +66,14 @@ When I came to dinner, all he top rated restaurants on Trip Advisor were Indian 
 After dinner I spent some time walking around downtown and taking in the night life before making my way back up the hill to the hotel so I could rest my feet.
 
 Today I’ll head up the coast, with a lunch break at Sines, and then move on to Setubal to set up camp for the night.  
+
+### April 14, 2022 
+<a name=“update”></a>
+
+Sines was an unexpected surprise!  It was a charming sea-side town with a lovely castle.  Tucked inside the castle was a neat little museum of the town.  The exhibits were wonderful and the whole thing was free to visit!
+
+After the castle and the museum, I walked all over town, all the way down to the boardwalk below the town and back up again.  There was a nice little cafe just outside the castle walls where I had a café com leite and a pastel de Natas.
+
+When I decided I was going to setup for the night in Setubal, just south of Lisbon, I wasn’t too excited. I booked the local Ibis hotel.  I knew it wouldn’t be exciting but the price was right, and since I have a car I didn’t mind staying outside of town.   After my afternoon siesta I headed off to the local Fort.  The views from the top of the Fort walls were quite nice and allowed me to scope out some likely place to stash the car and have a look around on foot.  It wasn’t until I drove back down the hill and parked my car that I started to get a bit excited about the prospects!  Murals and sculptures galore. Back alleys to investigate, a wonderful strip of park nestled downtown and a lively square.  I had dinner at the highest rated local tavern and it was quite good even if they didn’t have any oysters!
+
+Tomorrows route from here to Coimbra with a stop in Obdios is already planned.
