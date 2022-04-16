@@ -1,7 +1,7 @@
 ##### 3 April 2022
 #[Portugal Traveblog 🇵🇹](?p=PortugalTravelLog)
 
-### Last Updated: April 14, 2022
+### Last Updated: April 16, 2022
 
 I'll be updating this post as the adventure continues. [Click here](#update) to jump to the latest update.
 
@@ -68,7 +68,6 @@ After dinner I spent some time walking around downtown and taking in the night l
 Today I’ll head up the coast, with a lunch break at Sines, and then move on to Setubal to set up camp for the night.  
 
 ### April 14, 2022 
-<a name=“update”></a>
 
 Sines was an unexpected surprise!  It was a charming sea-side town with a lovely castle.  Tucked inside the castle was a neat little museum of the town.  The exhibits were wonderful and the whole thing was free to visit!
 
@@ -77,3 +76,36 @@ After the castle and the museum, I walked all over town, all the way down to the
 When I decided I was going to setup for the night in Setubal, just south of Lisbon, I wasn’t too excited. I booked the local Ibis hotel.  I knew it wouldn’t be exciting but the price was right, and since I have a car I didn’t mind staying outside of town.   After my afternoon siesta I headed off to the local Fort.  The views from the top of the Fort walls were quite nice and allowed me to scope out some likely place to stash the car and have a look around on foot.  It wasn’t until I drove back down the hill and parked my car that I started to get a bit excited about the prospects!  Murals and sculptures galore. Back alleys to investigate, a wonderful strip of park nestled downtown and a lively square.  I had dinner at the highest rated local tavern and it was quite good even if they didn’t have any oysters!
 
 Tomorrows route from here to Coimbra with a stop in Obdios is already planned.
+
+### April 16, 2022 
+<a name=“update”></a>
+
+So I couldn’t find anything affordable in Coimbra.  I did happened to find a charming little town in the hills with a castle and a youth hostel.  
+
+Along the way I stopped in Obidos which is a really charming 11th central walled town.  I walked the entire circumference of the walls.  I found it really amazing that there was no type of safety railing at all. I feel that if something similar existed in North America we would have installed railings or walls everywhere.
+
+After spending the morning and early afternoon in Obidos I headed north again, to Lousã, a town in the hills.  There was a nice little castle on the outskirts of town with a very nice boardwalk.  I followed it for a ways and then hiked down the trail into the valley below the castle.  I decided not to go all the way to the bottom.  I made my way back up the trail and then headed to the hostel.
+
+After checking into the hostel I spent the rest of the evening exploring the surrounding town of Lousã and hunting down a resturant.  I found a BBQ place that was able to stick me in a corner without a reservation an I had a perfectly cooked skewer of every type of animal you could imaging (Beef, Pork, Chicken and Some sort of sausage).  Each piece was perfectly grilled.
+
+That first night my roommate was from Austria, and the next night we had a German fellow with us. 
+
+In the morning I headed 30 minutes to the north west into the heart of Coimbra.  It’s a university town.  I found a parking spot near the university and explored the area.  The University’s Botanical gardens while not the largest I have ever visited were quite pleasant.  Ray would have enjoyed walking through them.  I then moved my car down to the riverbank and ventured into the really touristy parts of the city.  It’s a very hilly area.  If I wasn’t climbing up something I was slowly making my way down it.  In the end I walked over 30,000 steps throughout the day!  I visited the University Chemistry Lab and the Famous Joana Library.  To be honest I didn’t find it worth the trouble, and there were no photos allowed so of course I took some out of spite.
+
+This morning after a quick breakfast I packed up my wears and hit the road north toward Braga.  Looking for a place to stop for a snack after a couple of hours of driving I found the sea-side town of Esmoriz.  It was the perfect place to watch the waves crashed into the beach an have a cup of coffee with some sort of flaky pastry topped with sugar and peanuts.  It was great, not too sweet!  I’ll need to track down a recipe.
+
+The remainder of the day amounted to an “Almost Knottingham” with a Genoa chaser.  After setting up in the hotel in Braga and having a quick siesta I decided I was ready to head into the center of town, but try as I might I couldn’t find anywhere to park the car.  At one point i headed into an underground parking garage and couldn’t find a space I felt confident getting into.  When I attempted to leave I couldn’t get out and was forced to pay the minimum fee.  Ugh.  After a few more laps around town I was almost ready to throw in the towel when I spotted another under ground parking complex, this time with a clear indication of open spaces.  
+
+(Ray and I tried visiting Knottinham, but after driving around for an hour not being able to find one single hotel we got fed up and decided to head elsewhere)
+
+Once back above ground on foot I headed into the touristy areas of town and couldn’t believe how many people there were.  Everyone is visiting Braga right now it seems.  It’s a very church-y city and something is happening this weekend, I’m not quite sure what it’s all about…
+
+I didn’t go inside one single cathedral or church - I’m just about churched out at this point.  There is a small English style garden in town, again crawling with tourists but very lovely nonetheless.  
+
+When it game time for grub, All the highest rated restaurants were full.  One of the perks about travelling alone is that you can usually slide into most busy places if you show up early in the service. There’s always a table no one wants or in a dark corner.  No luck for me tonight.  I looked down a small alley and saw that there was a Thai restaurant, and the ratings on Trip Advisor were pretty good!  I decided to check it out.  It was a very skinny restaurant an once they decided where they could put me I was escorted up to the third floor.  It was a super charming, well decorated place.  With cushions on the floor and a pit to put you legs in, with tables with very short legs. I wondered how old people would get seated but they did have at least one standard height table with chairs.
+
+My server did not speak any English but she did speak very good French so that was perfect!  Dinner was excellent, and anything served in a half-pineapple gets bonus points from me!  I had my first Thai beer and it had a bit of a rice flavour, but couldn’t read the ingredients list so I might never know!
+
+(I often joke about how I found the food en Italy terrible, that’s not the joke though.  The joke is that the best meal I had in Italy was a from a Chinese restaurant in Genoa.)
+
+Tomorrow it’s only a short drive back down the Porto where I’ll spend two days.
