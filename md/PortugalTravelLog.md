@@ -1,9 +1,9 @@
 ##### 3 April 2022
 #[Portugal Traveblog 🇵🇹](?p=PortugalTravelLog)
 
-### Last Updated: April 16, 2022
+### Last Updated: April 23, 2022
 
-I'll be updating this post as the adventure continues. [Click here](#update) to jump to the latest update.
+I'll be updating this post as the adventure continues. These are my raw notes that will be improved upon my return.  [Click here](#update) to jump to the latest update.
 
 ### April 3, 2022 
 In just under a week I'll be hopping on a plane headed for Portugal.  This trip was originally planned for April 2020 but then the COVID pandamic began and all plans were canceled.  I find it difficult to believe that it is now two years later and we aren't clear of this thing yet.  I thought a lot about moving ahead with the trip.  I am fully vacinated and boosted. Aside from from the flights, I feel that I wouldn't be any safer staying home.  T-6 days to departure.
@@ -78,7 +78,6 @@ When I decided I was going to setup for the night in Setubal, just south of Lisb
 Tomorrows route from here to Coimbra with a stop in Obdios is already planned.
 
 ### April 16, 2022 
-<a name=“update”></a>
 
 So I couldn’t find anything affordable in Coimbra.  I did happened to find a charming little town in the hills with a castle and a youth hostel.  
 
@@ -109,3 +108,32 @@ My server did not speak any English but she did speak very good French so that w
 (I often joke about how I found the food en Italy terrible, that’s not the joke though.  The joke is that the best meal I had in Italy was a from a Chinese restaurant in Genoa.)
 
 Tomorrow it’s only a short drive back down the Porto where I’ll spend two days.
+
+### April 21, 2022 ###
+
+Porto:
+
+Porto was quite busy with tourists!  It’s almost if the pandemic still weren’t happening.  I spent 2 days walking all over the center of town.  I visited both sides of the bridge multiple times. I tracked down the famous half-rabbit sculpture.  I really didn’t feel like visiting any more cathedrals at this point so I just wandered around the city on foot.  I have done some serious walking on this trip that’s for sure, almost 40k steps in Porto on Monday alone. 
+
+I did have two exceptional dinners in Porto.  One was a seafood restaurant.  There were no tables free but they offered me a spot at the bar and it was a wonderful evening.  Watching [fill in name] shuck and plate oysters and other treasures from the sea was a wonderful way to spend an evening.  I had some raw oysters, some grilled oysters, a giant Tiger prawn and a very good bowl of Fish soup.
+
+The next night I found a little restaurant tucked away in the busy port with a space for one and had a nice meal of Tempura battered green-beans, vegetable soup and the famous cod that is served everywhere in Portugal. 
+
+After Porto it was time to start thinking about making my way back down to Lisbon.  I followed the Dourou river into wine country for a few hours until arriving at Trubuco.  A tiny town without much to do but I needed a rest day so that’s fine.  I did manage to hike up above town to see the surrounding landscape, and while there are no singularly high peaks in the region it is very hilly and I was feeling a bit uneasy up there. Something strange came over me on the high pedestrian bridge in Porto and I’m still getting over that.  
+
+Trubuco had a nice little family restaurant. The kind of place that only have one offering per service.  I had a bit too much wine with lunch and spent the rest of the afternoon in my hotel room, which nixed my plans to do a bit of driving in the valley.
+
+Next I headed back out towards the coast to Nazare.  It’s a charming sea-side town.  I can see how it would be completely overrun in high tourist season.  I hiked up to the top of the cliffs for a really impressive view of the beach and the town.  There’s a small Nazaré cultural center but there is almost no information available in any other language than Portuguese so it is of little value other than to appreciate the various installations visually. Thankfully entry is free.
+
+### April 23 ###
+<a name=“update”></a>
+
+
+Nazare was really beautiful - perfect weather!  I installed myself in the bead and breakfast at the top of the hill and then hiked down into town.  The boardwalk area is quite nice but I can see where it would really be quite crowded and unpleasant in high tourist season.
+
+At one end of the beach there used to be a functioning lift but it seems that is no longer the case.  I made the long hike up to the top of the cliff.  The views of the town and beach are really spectacular.  I spent some time up there taking photos from different places.  I hiked back down and spent some more time in town but ultimately I decided to skip dinner since I wasn’t feeling to great.  I stopped into the local supermarket and bought a few apples and some really great Grapefruit + Lemon + Mint toothpaste.  I’m going to have to track some down back home!
+
+I spent the next morning exploring the town the port and the surrounding area a bit more, and in the afternoon I headed down the coast to my final destination before Lisbon, Periche.
+
+My hotel was located way out of town. The coast line in the area was really spectacular.  I spent the late afternoon and evening exploring the town and the fort.  The first real rainstorm of the trip hit shortly after so I spent about an hour and a half in my car waiting for restaurants to open.  The best restaurants in town were either closed or fully booked.  As I walked down the local restaurant-row I wasn’t really sold on anything and it was a bit early so I couldn’t tell by crowd what was good.  Then I spotted a trio, two older tourists and a local, stopped at one of the restaurants to look at the menu and then continued on, down a side street.  I followed and they ended up at a nice looking place off the main route.  I had a very nice soup, some octopus salad and finally a very good seafood pasta.  The unexpected surprise of the night was to find Île Flotant on the menu.  Of course I couldn’t pass that up!  The merengue was perfect and the crème anglais was very good.
+
