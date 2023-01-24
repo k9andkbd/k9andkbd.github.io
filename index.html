@@ -2,7 +2,6 @@
 <html class="no-js" lang="en">
 	<head>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
-
 		<title>
 			canineandkeyboard.com
 		</title>
@@ -30,7 +29,7 @@
 		<link href="k9-dark.css" rel="stylesheet" type="text/css">
 		<link rel="stylesheet" href="styles/font-awesome.min.css">
 		<script src="logo.js"></script>
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+		<script src="https://kit.fontawesome.com/70b523c579.js" crossorigin="anonymous"></script>
 		<script src="js/showdown.min.js"></script>
 	</head>
 	<body style="max-width: 70rem;">
@@ -48,15 +47,24 @@
 		</header>
 		<main>
 			<div style="width:65%;float:left;" id="post">
+				<h5 id="3april2022">1 January 20XX</h5>
+				<a href=""><h1>Test Title</h1></a>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et feugiat magna, eget semper justo. Curabitur mollis vel tortor in consequat. Etiam quis suscipit nulla. Morbi egestas arcu elit, sed aliquet justo venenatis vel. Etiam at justo id neque vestibulum cursus. Phasellus finibus viverra congue. Curabitur at neque urna. Nulla imperdiet eu dui nec elementum.
+				</p>
+				<p>
+					Aenean dignissim nibh vitae suscipit consectetur. Nunc sodales quam magna, et commodo velit vestibulum fermentum. Etiam sodales ipsum leo, in vehicula augue iaculis quis. Vestibulum ac est vitae elit mattis malesuada eget sed libero. Donec pretium risus quis leo fermentum aliquet. Nunc sit amet dictum erat. Curabitur interdum in lorem a iaculis. Vestibulum quis gravida tellus. Mauris ut sem non orci rhoncus aliquam. Curabitur tristique libero vel metus tempor rhoncus. Etiam vitae diam vel erat pellentesque molestie a nec quam. Curabitur vehicula eleifend rhoncus. Aliquam commodo orci eget elit pulvinar, eget tempor felis vehicula. Nam ligula velit, luctus et faucibus vel, gravida tristique felis. Nam gravida, enim in sodales facilisis, ex tellus accumsan neque, at facilisis mauris augue sit amet orci.
+				</p>
 			</div>
 			<div style="width:30%;float:right;padding-top:1em;">
 		  		<ul style="list-style:none;text-align:left;padding-left:0;">
 					<li><a href="/"><i class="fa fa-home"></i> Home</a></li>
 					<li><a href="?p=projects"><i class="fa fa-rocket"></i> Projects</a></li>
 					<li><a href="https://twitter.com/k9andkbd"><i class="fa fa-twitter"></i> twitter</a></li>
+					<li><a href="https://mstdn.ca/@k9andkbd"><i class="fa-brands fa-mastodon"></i> Mastodon</a></li>
 					<li><a href="https://instagram.com/k9andkbd/"><i class="fa fa-instagram"></i> instagram</a></li>
 				</ul>
-				<h3>Micro.blog</h3>
+				<h3><i class="fa-brands fa-microblog"></i> Micro.blog</h3>
 				<br> 
 				<script type="text/javascript" src="https://micro.blog/sidebar.js?username=k9andkbd"></script> <span class="microblog_more"><a href="https://micro.blog/k9andkbd">more...</a></span>
 			</div>
@@ -100,6 +108,7 @@
 			var html = "";
 			var done = false;
 			var markdown = "";
+			var testing = false;
 			
 			// if we are showing the archives - remove the link in the footer for the archives
 			if (post == "archives")
@@ -121,7 +130,6 @@
 			else
 			{ 
 				var url = 'md/' + post + '.md';
-				console.log(url);
 				var client = new XMLHttpRequest();	
 
 				client.onreadystatechange = function() 
@@ -134,8 +142,11 @@
 					html = converter.makeHtml(markdown);
 					target.innerHTML = html;
 				}
-				client.open('GET', url);
-				client.send();
+				if(!testing)
+				{
+					client.open('GET', url);
+					client.send();
+				}
 			}
 		</script>
 		<noscript>Sorry.  This website requires Javascript.</noscript>
